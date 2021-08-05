@@ -107,3 +107,15 @@ _feature_
 `--m1---m2---m3---f1`
 
 ---
+
+## Tidy up
+
+I had also edited and commited the readme. Below I'm fixing up "Updated readme" and then squashing f3 and f2 into f1. The below commands show that "Updated readme" will be squashed into f1 but the commit message won't show unlike f3 and f2.
+
+![Screen Shot 2021-08-05 at 8 48 31 pm](https://user-images.githubusercontent.com/15721687/128338455-351c3a5e-5443-4d35-a1fb-1aaca6364fcc.jpg)
+
+## References 
+
+https://levelup.gitconnected.com/how-to-squash-git-commits-9a095c1bc1fc
+
+https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
